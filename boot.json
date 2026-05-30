@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-05-29T15:00:40.641Z",
+  "builtAt": "2026-05-30T08:56:04.907Z",
   "bizId": "ye-wu-yi",
   "keyVersion": "v1",
   "wasmObfuscated": true,
@@ -11,21 +11,26 @@
       "clinics/"
     ]
   },
+  "search": {
+    "enabled": true,
+    "tier": 1,
+    "entryCount": 5
+  },
   "manifest": {
-    "filename": "939a95db3aa868ff2794dbee9adbff51e1d685d70f29512e8fa8e5570fa500d2.enc",
+    "filename": "23dae502c44985ba1ce5d30147a0e4962e480d68d5591a73382569888e045856.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "ZoHbzPxrYUHCjde6",
-    "tagBase64": "4y22Lt++n1d4BIZP0kEqWw==",
+    "ivBase64": "8qDOnF89EHhnd1fI",
+    "tagBase64": "h2upcxeuv6szaTZgszj87g==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 1523,
     "ciphertextLen": 1523
   },
   "wasm": {
-    "filename": "7a8d366d8564f2a96edbab942ac111ab367badb589df852489e52195f84db81a.enc",
+    "filename": "b41ef810659887b7b97f8d7ecb3a4a3e2a06b3ccac40c195794f1a3201fc4e12.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "QiZABwD5KjmtbrcR",
-    "tagBase64": "OEr5NX8UZP77KY/fk3QZKg==",
+    "ivBase64": "Mmojw0mFWYtHyTN5",
+    "tagBase64": "ncQffI+iSl6NRk5kmx4JOw==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -34,15 +39,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "b00f8d8d15e51f95b5c460f0204044e3b9d0c3702086d1ef8d589429d323a4c6.enc"
+      "filename": "c8e80254a4dccbfe13491fa1e85608a399b572ac6f252ca5f15ede9f185dae88.enc"
     },
     {
       "index": 3,
-      "filename": "67810e3d83bea8240f49bbec39116907801c5418777858805608912bc3c5fc91.enc"
+      "filename": "b67ffd6739aeed48bb26124fc9aa8c33a193920f5a06996d2262704e1baee3bc.enc"
     },
     {
       "index": 4,
-      "filename": "b7705d705e963e920777fcf37f504a25438800f9ede809472cdc81c40fd15c42.enc"
+      "filename": "191333a8ff3a5f86bdd6565b694e8418fb417fd6d793e17245bcecbe47105165.enc"
     }
   ]
 }
