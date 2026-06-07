@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-07T08:49:57.792Z",
+  "builtAt": "2026-06-07T08:54:31.613Z",
   "bizId": "ye-wu-yi",
   "keyVersion": "v1",
   "wasmObfuscated": true,
@@ -11,35 +11,45 @@
     "resolveStrategy": "convention",
     "resolveConvention": {
       "pattern": "{testType}/{id}.json"
-    }
+    },
+    "additionalNamespaces": [
+      {
+        "key": "courses",
+        "namespace": "courses",
+        "indexEntry": "index.json",
+        "resolveStrategy": "id-index",
+        "idIndexEntry": "_id-map.json"
+      }
+    ]
   },
   "summary": {
-    "totalFiles": 9,
-    "totalSizeBytes": 314263,
+    "totalFiles": 13,
+    "totalSizeBytes": 316189,
     "prefixes": [
-      "clinics/"
+      "clinics/",
+      "courses/"
     ]
   },
   "search": {
     "enabled": true,
     "tier": 1,
-    "entryCount": 14
+    "entryCount": 19
   },
   "manifest": {
-    "filename": "757ced6a5be2c5755831f88117498248f2d1ccc9d6cd68375c93ae8db8cd24af.enc",
+    "filename": "8973c2480f7a12d38a835c5b24d39821707535ce61f9643d170a9dc78abbfc60.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "qVxXvq9ZRRvQBu5P",
-    "tagBase64": "dH7rObyn4OqWk9B/M1izIQ==",
+    "ivBase64": "VKKldHrU8ACtPERM",
+    "tagBase64": "HrkCKRKt2MAQYmXdgOmZyw==",
     "ivLen": 12,
     "tagLen": 16,
-    "plaintextLen": 3316,
-    "ciphertextLen": 3316
+    "plaintextLen": 4571,
+    "ciphertextLen": 4571
   },
   "wasm": {
-    "filename": "83fac43dd28461b0b4fe4a5cb8c4b42b4ce0714b4651272e45b4df183a7e3837.enc",
+    "filename": "2a61fc96ffd899fe209380fc27874b5974e032a31bdacd7500a49e6038f69113.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "J1mW4/el7l2dmZ36",
-    "tagBase64": "puaLK/51T+oSQjN6Uyz9zg==",
+    "ivBase64": "FilUeYAQuxxTUxnD",
+    "tagBase64": "xy/FsNw0psaplIC/a3/b5A==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -48,15 +58,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "67172c544ed1cb2c3bcd1df8a3e47141842933205936d612d79198ac0c48e566.enc"
+      "filename": "47158a16e2eb0c6756688c11a9baca8d99bf7de26cab77884300f082d4d25b0f.enc"
     },
     {
       "index": 3,
-      "filename": "99b0dd544fb41aecb7770ade170176cfcc4481dc5412d7b104c26ae437e870bb.enc"
+      "filename": "66073b1c2b8e01dcb83ed1416ddb3384a02b50f7cd688c58124fa5fcae6fb194.enc"
     },
     {
       "index": 4,
-      "filename": "af703d22b712c5f2981e0c1f577212722b15ba2bd8ca2ac4ddb4218876ed5f26.enc"
+      "filename": "02d8bd2aa50b4a23d31befbd14dfcbe8579ac212da46691a0eac20176bd80584.enc"
     }
   ]
 }
