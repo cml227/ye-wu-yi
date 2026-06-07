@@ -1,12 +1,12 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-07T06:57:36.285Z",
+  "builtAt": "2026-06-07T06:59:41.439Z",
   "bizId": "ye-wu-yi",
   "keyVersion": "v1",
   "wasmObfuscated": true,
   "dataPlane": {
     "contractVersion": "1.0.0",
-    "namespace": "clinics",
+    "namespace": "测试数据源",
     "indexEntry": "index.json",
     "resolveStrategy": "convention",
     "resolveConvention": {
@@ -26,20 +26,20 @@
     "entryCount": 7
   },
   "manifest": {
-    "filename": "9736e06f3c80e061802b62441368cb40595b2e0cdbd347c398c6d32750331c7c.enc",
+    "filename": "959c17c3fb3f07c9a54bf61974f190eba6bccd6026d75b0accfe0735c789d2b0.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "jLmL/nD7P1sznJN4",
-    "tagBase64": "+mIjFUE4xb00b0M0fbYvdQ==",
+    "ivBase64": "KUASXQANKXYiS5Hu",
+    "tagBase64": "0oAB1cYP8qG1liK+2TJNSQ==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 2756,
     "ciphertextLen": 2756
   },
   "wasm": {
-    "filename": "a379bdb75dff63238f86eb7e5c064dcf5e6d8b5a1d8a91328285ebe0330a577b.enc",
+    "filename": "6dd7f6a13b4a03de789913d240a9eb87eef89733611a7d1efb2e61724110962c.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "5QVr9eXeQ2W8qWHw",
-    "tagBase64": "7AWPK9lpVk/mQdUluJVZ4Q==",
+    "ivBase64": "dqX3MzN4L+WuZrq5",
+    "tagBase64": "YkvWtFzV+QSkZ5AuvwMrLg==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -48,15 +48,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "cf0a40955e9c9c9dd8562a3949f1915c1629e92f90ce13879ee824f9f7a058b7.enc"
+      "filename": "d9337b063ca9552b6d9ef7686261596738ffe55caea85fb9d2d30f89b04258e8.enc"
     },
     {
       "index": 3,
-      "filename": "acabc6cda5bb531a5675bed6300995dc06b91641891d81466d56cee2c4207b85.enc"
+      "filename": "31b2e8dce0b3f652c439594947299c4e981aa0088aacb26876ab7de93bc705dc.enc"
     },
     {
       "index": 4,
-      "filename": "3084ef4adde5d15dfa8931e696a65f9f6cbe707ab0a15616206511621fd1a8da.enc"
+      "filename": "5cb7a8ca6d3f96dd4cc83b5b52800f4d2f951bd05924d93c0c0befcf5ac65abd.enc"
     }
   ]
 }
