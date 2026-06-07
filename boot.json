@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-07T06:59:41.439Z",
+  "builtAt": "2026-06-07T07:02:18.553Z",
   "bizId": "ye-wu-yi",
   "keyVersion": "v1",
   "wasmObfuscated": true,
@@ -14,8 +14,8 @@
     }
   },
   "summary": {
-    "totalFiles": 7,
-    "totalSizeBytes": 253631,
+    "totalFiles": 8,
+    "totalSizeBytes": 258972,
     "prefixes": [
       "测试数据源/"
     ]
@@ -23,23 +23,23 @@
   "search": {
     "enabled": true,
     "tier": 1,
-    "entryCount": 7
+    "entryCount": 14
   },
   "manifest": {
-    "filename": "959c17c3fb3f07c9a54bf61974f190eba6bccd6026d75b0accfe0735c789d2b0.enc",
+    "filename": "d6659746d85ee9b1db104aafc19b04432ea177aba8b51033bf403db6c31bba35.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "KUASXQANKXYiS5Hu",
-    "tagBase64": "0oAB1cYP8qG1liK+2TJNSQ==",
+    "ivBase64": "QqWPJNBSjR4ksNvq",
+    "tagBase64": "NWRItmdehmSeuG/HonJ7hg==",
     "ivLen": 12,
     "tagLen": 16,
-    "plaintextLen": 2756,
-    "ciphertextLen": 2756
+    "plaintextLen": 3074,
+    "ciphertextLen": 3074
   },
   "wasm": {
-    "filename": "6dd7f6a13b4a03de789913d240a9eb87eef89733611a7d1efb2e61724110962c.enc",
+    "filename": "2f0c0337c4b5336b17c5e305120d962d1e4b8b58f424f8d74f43e6d681dcba27.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "dqX3MzN4L+WuZrq5",
-    "tagBase64": "YkvWtFzV+QSkZ5AuvwMrLg==",
+    "ivBase64": "6q1e25UUHXlSqn0U",
+    "tagBase64": "y5uOCkwxENtH6H92er8RdA==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -48,15 +48,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "d9337b063ca9552b6d9ef7686261596738ffe55caea85fb9d2d30f89b04258e8.enc"
+      "filename": "8bcd737a11602a7ff5ddc2f2e06a8dd018263a3eb55fa3df618467652f0d48cd.enc"
     },
     {
       "index": 3,
-      "filename": "31b2e8dce0b3f652c439594947299c4e981aa0088aacb26876ab7de93bc705dc.enc"
+      "filename": "bea86c05fb98c86f021c3ec74ef60013885fdcdcaf08355c6ddc02a200e4d37c.enc"
     },
     {
       "index": 4,
-      "filename": "5cb7a8ca6d3f96dd4cc83b5b52800f4d2f951bd05924d93c0c0befcf5ac65abd.enc"
+      "filename": "d36a1e6df74ba9c324b680ff52fdfcf21851c9104b6490e2c4a3e15420529f1d.enc"
     }
   ]
 }
