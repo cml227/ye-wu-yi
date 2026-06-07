@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-07T07:11:37.276Z",
+  "builtAt": "2026-06-07T07:53:37.923Z",
   "bizId": "ye-wu-yi",
   "keyVersion": "v1",
   "wasmObfuscated": true,
@@ -14,8 +14,8 @@
     }
   },
   "summary": {
-    "totalFiles": 8,
-    "totalSizeBytes": 258823,
+    "totalFiles": 9,
+    "totalSizeBytes": 315136,
     "prefixes": [
       "测试数据源/"
     ]
@@ -26,20 +26,20 @@
     "entryCount": 14
   },
   "manifest": {
-    "filename": "55fdcb63ef6f120a66542383708c92ede612e2c9ab816a765979238a2efa2bb6.enc",
+    "filename": "ee39db44ed57abcd82dae0bdeaf4719d339222ace6b77c745e750d85550c117c.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "dkkzHmKZvNySNAfv",
-    "tagBase64": "xqOi5NnAhgC/YDG6irtDdg==",
+    "ivBase64": "O2Wotab8DOAmCdlt",
+    "tagBase64": "1PENn8xYgbN7jMzRHxo54A==",
     "ivLen": 12,
     "tagLen": 16,
-    "plaintextLen": 3074,
-    "ciphertextLen": 3074
+    "plaintextLen": 3382,
+    "ciphertextLen": 3382
   },
   "wasm": {
-    "filename": "4ddea4fadd47acdc8f6b39414e9d9a5be6e6a3aace8de1053d79c733458910d1.enc",
+    "filename": "88c71d3ed88fff60fa30bb1803fdca1f5fe5ce72c6ad00ea898accd7050996d1.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "naI7UOZkPEgexEMm",
-    "tagBase64": "T6ph3SyJ1OLtIkcaF5V6mg==",
+    "ivBase64": "Z2P2WDrXvH5dehMz",
+    "tagBase64": "U9frj31pvlmDrAfzPlXNKg==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -48,15 +48,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "38e1b6c253549ce7beaf757837b2c2655e37dc03c725fd4fa91d32ec463d0b10.enc"
+      "filename": "69bc2060a5b6d693755690c8060d6495955f117e661a90ba13d2fa9775f50981.enc"
     },
     {
       "index": 3,
-      "filename": "a4d3310193f812b2e80dc3cfb50d9fd17325d481bc1892292f7c054c0a467e61.enc"
+      "filename": "6bb46fef772824be0be2eb5b2dca2fc2c6a223e5ba05dea9eeeecf340e858eb9.enc"
     },
     {
       "index": 4,
-      "filename": "6735f9fa5f08be512a38358d644587fd1ab1a681075c691236dc5638f0fd6447.enc"
+      "filename": "6e229843aaeaeb9c008359f8c9bd7561ca33d083a6f38972ae69fa7c217f2f26.enc"
     }
   ]
 }
