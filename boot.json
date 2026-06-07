@@ -1,12 +1,12 @@
 {
   "schemaVersion": 3,
-  "builtAt": "2026-06-07T07:53:37.923Z",
+  "builtAt": "2026-06-07T07:57:28.790Z",
   "bizId": "ye-wu-yi",
   "keyVersion": "v1",
   "wasmObfuscated": true,
   "dataPlane": {
     "contractVersion": "1.0.0",
-    "namespace": "测试数据源",
+    "namespace": "clinics",
     "indexEntry": "index.json",
     "resolveStrategy": "convention",
     "resolveConvention": {
@@ -14,9 +14,10 @@
     }
   },
   "summary": {
-    "totalFiles": 9,
-    "totalSizeBytes": 315136,
+    "totalFiles": 17,
+    "totalSizeBytes": 629342,
     "prefixes": [
+      "clinics/",
       "测试数据源/"
     ]
   },
@@ -26,20 +27,20 @@
     "entryCount": 14
   },
   "manifest": {
-    "filename": "ee39db44ed57abcd82dae0bdeaf4719d339222ace6b77c745e750d85550c117c.enc",
+    "filename": "712dfabcb8e527d90ea50958bcb7122633bc3d69f7fe9ef6e3f7792bbc35dc3b.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "O2Wotab8DOAmCdlt",
-    "tagBase64": "1PENn8xYgbN7jMzRHxo54A==",
+    "ivBase64": "p1KeOL01P3htwx5G",
+    "tagBase64": "FSJDmOcLxNDVonSW9/6usw==",
     "ivLen": 12,
     "tagLen": 16,
-    "plaintextLen": 3382,
-    "ciphertextLen": 3382
+    "plaintextLen": 6074,
+    "ciphertextLen": 6074
   },
   "wasm": {
-    "filename": "88c71d3ed88fff60fa30bb1803fdca1f5fe5ce72c6ad00ea898accd7050996d1.enc",
+    "filename": "cd63c5b3d3b4c5af74206c9c4106ab6ae2be2cd60ac0d139eaa9c75ee160e079.enc",
     "algorithm": "aes-256-gcm",
-    "ivBase64": "Z2P2WDrXvH5dehMz",
-    "tagBase64": "U9frj31pvlmDrAfzPlXNKg==",
+    "ivBase64": "g/rIcAvd2+e+aDK4",
+    "tagBase64": "o0Fo+Ia+B7ZZAITS7XT8wQ==",
     "ivLen": 12,
     "tagLen": 16,
     "plaintextLen": 29404,
@@ -48,15 +49,15 @@
   "anchors": [
     {
       "index": 2,
-      "filename": "69bc2060a5b6d693755690c8060d6495955f117e661a90ba13d2fa9775f50981.enc"
+      "filename": "814c17dfd828a39ba4bb6daa99c997e58e196f0a0f7389179a6edeb21eca8412.enc"
     },
     {
       "index": 3,
-      "filename": "6bb46fef772824be0be2eb5b2dca2fc2c6a223e5ba05dea9eeeecf340e858eb9.enc"
+      "filename": "eec520362f28e9fc49f8f192672656e33b9c9a92e839c41a4d67c03c91db7b28.enc"
     },
     {
       "index": 4,
-      "filename": "6e229843aaeaeb9c008359f8c9bd7561ca33d083a6f38972ae69fa7c217f2f26.enc"
+      "filename": "d587f51981977f1ba98e865728c6b07837bf9a994436faec5497f72428722b89.enc"
     }
   ]
 }
